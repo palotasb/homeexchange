@@ -58,3 +58,14 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 1rem;
 }
+
+a[href] {
+    color: #26f;
+    text-decoration: underline;
+    text-decoration-color: #acf;
+}
+
+a[href]:hover, a[href]:focus {
+    color: #13a;
+    text-decoration-color: #13a;
+}
