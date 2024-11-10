@@ -44,9 +44,16 @@ p, h1, h2, h3, h4, h5, h6 {
 * GENERIC COMPONENTS        *
 \***************************/
 
-* {
+html {
     background-color: #fffffc;
     color: #181808;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #181808;
+    color: #e0e0d0;
+  }
 }
 
 /* https://systemfontstack.com/ */
@@ -69,6 +76,12 @@ header h1 {
     font-size: 1.25rem;
 }
 
+@media (prefers-color-scheme: dark) {
+    header h1 {
+        color: #686860;
+    }
+}
+
 a[href] {
     color: #26f;
     text-decoration: underline;
@@ -78,6 +91,18 @@ a[href] {
 a[href]:hover, a[href]:focus {
     color: #13a;
     text-decoration-color: #13a;
+}
+
+@media (prefers-color-scheme: dark) {
+    a[href] {
+        color: #48f;
+        text-decoration-color: #248;
+    }
+
+    a[href]:hover, a[href]:focus {
+        color: #6af;
+        text-decoration-color: #6af;
+    }
 }
 
 hr {
