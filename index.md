@@ -3,14 +3,14 @@
 We're so glad you're here and wish you a fantastic stay and a memorable time in the Netherlands.
 Here's a mix of practical info and tips to make sure you feel right at home, "gezellig" style!
 
-## [Prepare for your stay](prepare.md)
+## [Prepare for your stay](prepare.html)
 
-## [Travel and transportation](travel.md)
+## [Travel and transportation](travel.html)
 
-## [Our Apartment](apartment.md)
+## [Our Apartment](apartment.html)
 
-## [Diemen neighborhood](diemen.md)
+## [Diemen neighborhood](diemen.html)
 
-## [Amsterdam recommendations](amsterdam.md)
+## [Amsterdam recommendations](amsterdam.html)
 
-## [Netherlands recommendations](netherlands.md)
+## [Netherlands recommendations](netherlands.html)
