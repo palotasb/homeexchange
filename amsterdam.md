@@ -23,3 +23,12 @@ We've highlighted a few must-see attractions:
 
 Amsterdam has dozens of great restaurants all around the city.
 We just recommend checking Google Maps for well-rated restaurants nearby.
+
+Our recommendations:
+
+- 🇳🇱 **[Moeders](https://maps.app.goo.gl/YB38UbCPBrAyqpKf7)**: an authentic Dutch restaurant that opens only at 5 PM.
+- 🇹🇭 **[Silom Thai Brasserie](https://maps.app.goo.gl/9wYYHQ8TakdtRgp66)**: Thai Restaurant in the heart of Amsterdam.
+- 🇹🇭 **[Bird Thais Restaurant](https://maps.app.goo.gl/X1fNpz2vSHEQHJCE8)**: Operated by the same owners as Silom. Offers good, authentic Thai food in a more casual setup. Reservations are not accepted, but it's usually easy to get a seat.
+- 🇮🇳 **[Ashoka](https://maps.app.goo.gl/zRdNwpCTdzqn8BgY9)**: Indian restaurant where reservations are recommended, especially on weekends.
+- 🇳🇱 **[Arca Amsterdam](https://maps.app.goo.gl/rWjQTf8DWzEinGaHA)**: An elegant spot with fine dining vibes, offering excellent food in small portions. It’s slightly pricey.
+- 🇳🇱 **[Feed Amsterdam](https://maps.app.goo.gl/BPSR3Dh3ia9duprT8)**: Hosting pub quizzes every Wednesday (reservations needed). The food is decent.
