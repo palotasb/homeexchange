@@ -4,28 +4,28 @@ requires-python = ">=3.13"
 
 [[package]]
 name = "boldi-cli"
-version = "0.9.3"
+version = "0.9.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "boldi-ctx" },
     { name = "boldi-plugins" },
     { name = "rich" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/a3/bc/02a2032c82c0871d82e6ed37759ad055494e2a600091a8f61865f9b0d35b/boldi_cli-0.9.3.tar.gz", hash = "sha256:d7350d3cefafe01b279a8f0c3b82f8087cac44fa8976be798c2784b84c33dc93", size = 3426 }
+sdist = { url = "https://files.pythonhosted.org/packages/46/24/9fa0ce34d0ca83c805f8f2bfb6986e81a266c0c22e196fed5ebe273238a7/boldi_cli-0.9.7.tar.gz", hash = "sha256:e95a0c633a6e4bc8f9f3fd8f005e5114a5d3884e1d3b2088590cd7f37643d432", size = 3426 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ca/5f/f2f7fec8b918bef30fb386d81d4a32ab12cb94d410a3b089f2f7ad3987b2/boldi_cli-0.9.3-py3-none-any.whl", hash = "sha256:28197a902565a1979680f2b7ac5c4ff296305fa34f901a88ac383a4ac42f991d", size = 4160 },
+    { url = "https://files.pythonhosted.org/packages/5e/60/474b4db01cf858475754c8de3730e927064ecd2f137a1faef9c709767790/boldi_cli-0.9.7-py3-none-any.whl", hash = "sha256:5aa199f28eb6311a65494c597955629c3373bab3494dca1801118c1b44b9cab7", size = 4162 },
 ]
 
 [[package]]
 name = "boldi-ctx"
-version = "0.9.3"
+version = "0.9.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "boldi-proc" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/b2/96/89c53495e4a96482d97f799eeddeae6babb0e06bb5db8e37f012a4723a2f/boldi_ctx-0.9.3.tar.gz", hash = "sha256:8d4d6a5e7cfb95b482f9dcc598a99ac594916fcbf410229e0f30107babce0575", size = 2665 }
+sdist = { url = "https://files.pythonhosted.org/packages/84/7f/1a9261c32b00b5fd66dba584fe5e693a278f13f4134e73c386ceb1a39b78/boldi_ctx-0.9.7.tar.gz", hash = "sha256:3a3024cf7932fd12e569dadfbb6443dc8276626f5bdeecc0e8886e3f3468d1f0", size = 2665 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f0/09/7e51f6e3801b878bd51fba55d1905f42c433e8f34d43ded74ef4ff712707/boldi_ctx-0.9.3-py3-none-any.whl", hash = "sha256:0382ff31f83922c24447a2d9adc5974a8a5b54533a96c5351809bb52e85992a9", size = 3153 },
+    { url = "https://files.pythonhosted.org/packages/8a/ca/d529733babadbcfae15f162242ef24066382cddfc978be339b507342ce2f/boldi_ctx-0.9.7-py3-none-any.whl", hash = "sha256:0493bc3e71cf5afed3e719ef14d291d4c308962574dd6df9b9ac42fdf252cd81", size = 3156 },
 ]
 
 [[package]]
@@ -41,38 +41,37 @@ requires-dist = [{ name = "boldi-sitebuilder" }]
 
 [[package]]
 name = "boldi-plugins"
-version = "0.9.3"
+version = "0.9.7"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/2e/97/dcff032174bfa98f46738f0e0f06288370949bb389f46f57bfd2b8b97369/boldi_plugins-0.9.3.tar.gz", hash = "sha256:827523918c261d8f5bd48f53e8198adaefb8f73bcbb9050b863c2cf52ba31ee3", size = 1506 }
+sdist = { url = "https://files.pythonhosted.org/packages/99/02/7c36b55377258ad0e84fc3159517b8fcb7116358fb50d13bdf543a4ece03/boldi_plugins-0.9.7.tar.gz", hash = "sha256:5b2c9a4edc7fd1d71dc637ab6ff1a04353cfb2542ee6ca0fdab2d11d21192695", size = 1504 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/99/f2/7cd114b82eafb114d6c0420161d9559eb77656e22c71bceebd85556eb333/boldi_plugins-0.9.3-py3-none-any.whl", hash = "sha256:0c1fdcd8621161fd7b8f02ef6dad117f392909260b5aa22032e45a900f2f7458", size = 2104 },
+    { url = "https://files.pythonhosted.org/packages/49/ad/fff76d48c609d851e5754e4d7a7a9688799666b29e3cbec77e60427f22f8/boldi_plugins-0.9.7-py3-none-any.whl", hash = "sha256:8380eb5a6555779060ea0f8acab25b3a3ed21a2be77fab599147a9244ef624e0", size = 2108 },
 ]
 
 [[package]]
 name = "boldi-proc"
-version = "0.9.3"
+version = "0.9.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/47/b0/2126b92ee550f210d6f22e7a34adc3b351310612187ea5d384dbcea5a0df/boldi_proc-0.9.3.tar.gz", hash = "sha256:ba5d2193a2d6db87d2b021e72d04b7cf60086743762c24cd6d84b83d159d421e", size = 2564 }
+sdist = { url = "https://files.pythonhosted.org/packages/c4/79/e73be0896610c6e6b53ff2d1c6836f7f3ae72d9e4c8f7549b5bd13bebbfa/boldi_proc-0.9.7.tar.gz", hash = "sha256:aded3d84bdeb36aed287d81df36646797648c1fa9fe569a0d58afd6bfcafd46a", size = 2565 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/56/63/1c43957b824dcb68b930e64cb605f3e7170381710296742e63e09913ac36/boldi_proc-0.9.3-py3-none-any.whl", hash = "sha256:622962e64fc416222a1716ff3fce3e9d1f238398011d6f4b8665d6ae7aa4ea28", size = 3091 },
+    { url = "https://files.pythonhosted.org/packages/c1/09/c83f41d71f963f44a2eaa850801cb3b60c2b5420ae478ca5c55924271fd7/boldi_proc-0.9.7-py3-none-any.whl", hash = "sha256:8e2af31b748f5da628ae79addd3c7fcab09952f210336aa45b5b6e02084b9321", size = 3094 },
 ]
 
 [[package]]
 name = "boldi-sitebuilder"
-version = "0.9.3"
+version = "0.9.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "boldi-cli" },
     { name = "jinja2" },
     { name = "markdown-it-py", extra = ["linkify", "plugins"] },
-    { name = "mdformat" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/3c/80/7ea6a34beb94e181cba404be8e833f3af1eaf166f4ecc89f112e31f9f226/boldi_sitebuilder-0.9.3.tar.gz", hash = "sha256:5188c42e6d2bd6a60214c0008a4d58221c9c89acaf29aee743c24b92a7831c3c", size = 3103 }
+sdist = { url = "https://files.pythonhosted.org/packages/a8/6b/0438fd0f7ca3b7ee5df0a72fd4377f686a3c4a2784bd04b40e7da91d0d29/boldi_sitebuilder-0.9.7.tar.gz", hash = "sha256:88f703f92b6709aa0fad23feb8f3943855396506ee543c5a5562ee1d71b0eff6", size = 3111 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/cd/cb/bcfe650e39636d1c11782fa19ca76555b15b3eeb6a675cc540376cb01ed1/boldi_sitebuilder-0.9.3-py3-none-any.whl", hash = "sha256:06fa3c8530c6fab7af05618b93f865f7ff61424cdfeafc18b96683c09079d89e", size = 3924 },
+    { url = "https://files.pythonhosted.org/packages/69/b9/54132c4a33735d01203c453e495ced17d9a8c975adfa449c5d49ee2a2c8b/boldi_sitebuilder-0.9.7-py3-none-any.whl", hash = "sha256:a3e7d612b4930627d7cfc81974d72a8aead9df2cc58182dd29a35b68efd57cf7", size = 3940 },
 ]
 
 [[package]]
@@ -145,18 +144,6 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/0d/80/0985960e4b89922cb5a0bac0ed39c5b96cbc1a536a99f30e8c220a996ed9/MarkupSafe-3.0.2-cp313-cp313t-musllinux_1_2_x86_64.whl", hash = "sha256:131a3c7689c85f5ad20f9f6fb1b866f402c445b220c19fe4308c0b147ccd2ad9", size = 24098 },
     { url = "https://files.pythonhosted.org/packages/82/78/fedb03c7d5380df2427038ec8d973587e90561b2d90cd472ce9254cf348b/MarkupSafe-3.0.2-cp313-cp313t-win32.whl", hash = "sha256:ba8062ed2cf21c07a9e295d5b8a2a5ce678b913b45fdf68c32d95d6c1291e0b6", size = 15208 },
     { url = "https://files.pythonhosted.org/packages/4f/65/6079a46068dfceaeabb5dcad6d674f5f5c61a6fa5673746f42a9f4c233b3/MarkupSafe-3.0.2-cp313-cp313t-win_amd64.whl", hash = "sha256:e444a31f8db13eb18ada366ab3cf45fd4b31e4db1236a4448f68778c1d1a5a2f", size = 15739 },
-]
-
-[[package]]
-name = "mdformat"
-version = "0.7.22"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "markdown-it-py" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/fc/eb/b5cbf2484411af039a3d4aeb53a5160fae25dd8c84af6a4243bc2f3fedb3/mdformat-0.7.22.tar.gz", hash = "sha256:eef84fa8f233d3162734683c2a8a6222227a229b9206872e6139658d99acb1ea", size = 34610 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/f2/6f/94a7344f6d634fe3563bea8b33bccedee37f2726f7807e9a58440dc91627/mdformat-0.7.22-py3-none-any.whl", hash = "sha256:61122637c9e1d9be1329054f3fa216559f0d1f722b7919b060a8c2a4ae1850e5", size = 34447 },
 ]
 
 [[package]]

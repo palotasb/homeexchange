@@ -93,6 +93,15 @@ a[href]:hover, a[href]:focus {
     text-decoration-color: #13a;
 }
 
+a.header-anchor[href] {
+    font-size: 0.67em;
+    opacity: 25%;
+}
+
+a.header-anchor[href]:hover, a.header-anchor[href]:focus {
+    opacity: 33%;
+}
+
 @media (prefers-color-scheme: dark) {
     a[href] {
         color: #48f;

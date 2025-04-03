@@ -1,3 +1,7 @@
+---
+frontmatter = true
+---
+
 # Welcome to our Home in Amsterdam
 
 We're so glad you're here and wish you a fantastic stay and a memorable time in the Netherlands.
