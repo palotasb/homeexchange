@@ -82,6 +82,16 @@ header h1 {
     }
 }
 
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+    outline: 1px solid #acf;
+}
+
+@media (prefers-color-scheme: dark) {
+    h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+        outline: 1px solid #248;
+    }
+}
+
 a[href] {
     color: #26f;
     text-decoration: underline;
@@ -91,15 +101,6 @@ a[href] {
 a[href]:hover, a[href]:focus {
     color: #13a;
     text-decoration-color: #13a;
-}
-
-a.header-anchor[href] {
-    font-size: 0.67em;
-    opacity: 25%;
-}
-
-a.header-anchor[href]:hover, a.header-anchor[href]:focus {
-    opacity: 33%;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -112,6 +113,15 @@ a.header-anchor[href]:hover, a.header-anchor[href]:focus {
         color: #6af;
         text-decoration-color: #6af;
     }
+}
+
+a.header-anchor[href] {
+    font-size: 0.67em;
+    opacity: 25%;
+}
+
+a.header-anchor[href]:hover, a.header-anchor[href]:focus {
+    opacity: 33%;
 }
 
 hr {
